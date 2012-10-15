@@ -15,17 +15,14 @@ public class SubStation extends RoboSherlockActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        
-    }
-    
-    
-    
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-    	return true;
+
     }
 
-    
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        return true;
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
