@@ -1,0 +1,3 @@
+<resources>
+    <item type="layout" name="activity_sandwich_list">@layout/activity_sandwich_twopane</item>
+</resources>
