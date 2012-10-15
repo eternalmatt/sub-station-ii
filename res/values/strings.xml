@@ -4,5 +4,27 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_sub_station">SubStation</string>
+    <string-array name="sub_array">
+        <item >Ham &amp; Cheese</item>
+        <item >Bologna &amp; Cheese</item>
+        <item >Ham, Genoa Salami &amp; Cheese</item>
+        <item >Genoa Salami, Pepperoni &amp; Cheese</item>
+        <item >Ham, Turkey &amp; Cheese</item>
+        <item >Roast Beef &amp; Cheese</item>
+        <item >Ham, Pepperoni &amp; Cheese</item>
+        <item >Roast Beef, Ham, Turkey &amp; Cheese</item>
+        <item >Ham, Cappicola &amp; Cheese</item>
+        <item >Turkey &amp; Cheese</item>
+        <item >Tuna &amp; Cheese</item>
+        <item >Provolone, Swiss &amp; American Cheese</item>
+        <item >Ham, Genoa Salami, Pepperoni &amp; Cheese</item>        
+        <item >Ham, Bologna &amp; Cheese</item>        
+        <item >Roast Beef, Turkey &amp; Cheese</item>
+        <item >Corned Beef &amp; Cheese</item>
+        <item >Roast Beef, Ham &amp; Cheese</item>
+        <item >Ham, Bologna, Cappicola &amp; Cheese</item>
+        <item >Ham, Bologna, Genoa Salami, Pepperoni, Cappicola, Turkey &amp; Cheese</item>
+        
+    </string-array>
 
 </resources>
